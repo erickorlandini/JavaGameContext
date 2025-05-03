@@ -1,4 +1,4 @@
-# Java Game Context
+# Java Terminal Game
 Neste projeto foi desenvolvido para criar um jogo da velha via terminal. O intuito foi praticar a liguagem Java e sua lógica para criar um game divertido.
 
 ## ✔️ Técnicas e tecnologias utilizadas
